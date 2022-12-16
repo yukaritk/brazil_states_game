@@ -1,28 +1,28 @@
-Estado;x;y
-Acre;-304.0;81.0
-Alagoas;232.0;68.0
-Amapa;-14.0;237.0
-Amazonas;-194.0;151.0
-Bahia;133.0;32.0
-Ceara;168.0;149.0
-Espirito Santo;170.0;-80.0
-Goias;9.0;-37.0
-Maranhao;83.0;144.0
-Mato Grosso;-69.0;21.0
-Mato Grosso do Sul;-61.0;-87.0
-Minas Gerais;102.0;-60.0
-Para;-27.0;146.0
-Paraiba;249.0;110.0
-Parana;-19.0;-149.0
-Pernambuco;238.0;91.0
-Piaui;107.0;95.0
-Rio de Janeiro;150.0;-123.0
-Rio Grande do Norte;260.0;131.0
-Rio Grande do Sul;-40.0;-228.0
-Rondonia;-198.0;44.0
-Roraima;-148.0;270.0
-Santa Catarina;68.0;-197.0
-Sao Paulo;27.0;-109.0
-Sergipe;240.0;44.0
-Tocantins;37.0;59.0
-Distrito Federal;36.0;-8.0
+Estado,x,y
+Acre,-304.0,81.0
+Alagoas,232.0,68.0
+Amapa,-14.0,237.0
+Amazonas,-194.0,151.0
+Bahia,133.0,32.0
+Ceara,168.0,149.0
+Espirito Santo,170.0,-80.0
+Goias,9.0,-37.0
+Maranhao,83.0,144.0
+Mato Grosso,-69.0,21.0
+Mato Grosso do Sul,-61.0,-87.0
+Minas Gerais,102.0,-60.0
+Para,-27.0,146.0
+Paraiba,249.0,110.0
+Parana,-19.0,-149.0
+Pernambuco,238.0,91.0
+Piaui,107.0,95.0
+Rio de Janeiro,150.0,-123.0
+Rio Grande do Norte,260.0,131.0
+Rio Grande do Sul,-40.0,-228.0
+Rondonia,-198.0,44.0
+Roraima,-148.0,270.0
+Santa Catarina,68.0,-197.0
+Sao Paulo,27.0,-109.0
+Sergipe,240.0,44.0
+Tocantins,37.0,59.0
+DF,36.0,-8.0
